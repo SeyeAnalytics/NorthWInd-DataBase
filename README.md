@@ -59,6 +59,11 @@ suppliers and the ones that can be replaced.
 
 Return a table that shows the name of the company,
 
+the contact’s name and the average quantity these companies have done for the company.
+
+
+
+
 ## Skills Demonstrated
 
 The following PowerBi features were incorporated
@@ -70,7 +75,18 @@ The following PowerBi features were incorporated
 -CTE
 
 
-the contact’s name and the average quantity these companies have done for the company.
+## Business Solution:
+
+Question 1 Code                                 |         Question 1 result
+
+:----------------------------------------------:|:-----------------------------:
+
+
+![](Qst1code_image.png)                         |  ![](Qst1res_image.png)        
+
+
+
+
 
 
 
