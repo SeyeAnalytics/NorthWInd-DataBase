@@ -2,7 +2,7 @@
 
 ![](edible-food---teachoo.jpg)
 
-##Introduction
+## Introduction
 
 The Northwind Database is for a business entity that deals with edible goods. 
 
