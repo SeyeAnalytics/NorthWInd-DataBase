@@ -78,10 +78,7 @@ The following PowerBi features were incorporated
 ## Business Solution:
 
 Question 1 Code                                 |         Question 1 result
-
 :----------------------------------------------:|:-----------------------------:
-
-
 ![](Qst1code_image.png)                         |  ![](Qst1res_image.png)        
 
 
