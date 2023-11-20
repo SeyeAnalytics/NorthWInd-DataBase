@@ -59,6 +59,17 @@ suppliers and the ones that can be replaced.
 
 Return a table that shows the name of the company,
 
+## Skills Demonstrated
+
+The following PowerBi features were incorporated
+
+-Subquery
+
+-Joining
+
+-CTE
+
+
 the contact’s name and the average quantity these companies have done for the company.
 
 
