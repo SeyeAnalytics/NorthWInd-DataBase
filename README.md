@@ -82,6 +82,22 @@ Question 1 Code            |      Question 1 result
 ![](Qst1code_image.png)    |  ![](Qst1res_image.png)        
 
 
+Question 2 Code            |      Question 2 result
+:-------------------------:|:-----------------------:
+![](Qst2code_image.png)    |  ![](Qst2res_image.png)        
+
+
+Question 3 Code            |      Question 3 result
+:-------------------------:|:-----------------------:
+![](Qst3code_image.png)    |  ![](Qst3res_image.png)        
+
+
+Question 4 Code            |      Question 4 result
+:-------------------------:|:-----------------------:
+![](Qst4code_image.png)    |  ![](Qst4res_image.png)        
+
+
+
 
 
 
