@@ -17,29 +17,16 @@ have been given the responsibility to retrieve the following outputs from the da
    the total amount of transactions, and the title of these employees. **Put this output in view.**
 
 
-2. The board of directors is interested in seeing the volume of transactions
-
-   this business has made. Your mission: In the operation year,
-
+2. The board of directors is interested in seeing the volume of transactions this business has made. Your mission: In the operation year,
    **give a breakdown of the total number of orders by year and by month.**
    
 
-4. The company is doing well in terms of revenue. The directors are planning to
-  
-   expand their customer base in some countries. **Generate a ranked table from the customer's
-
-   table that displays the customer ID, company name, city, country, total quantity, and ranked 
-
-   value.** This rank table should be partitioned by country.
+3. The company is doing well in terms of revenue. The directors are planning to expand their customer base in some countries. **Generate a ranked table from the customer's
+   table that displays the customer ID, company name, city, country, total quantity, and ranked value.** This rank table should be partitioned by country.
    
 
-4. There have been some concerns with some of our suppliers. The management would like to know
-  
-    the MVP (most valuable player) suppliers and the ones that can be replaced.
-
-   **Return a table that shows the name of the company, the contact’s name, and the average 
-
-   quantity these companies have done for the company.**
+4. There have been some concerns with some of our suppliers. The management would like to know the MVP (most valuable player) suppliers and the ones that can be replaced.
+   **Return a table that shows the name of the company, the contact’s name, and the average quantity these companies have done for the company.**
 
 
 
