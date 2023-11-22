@@ -4,16 +4,16 @@
 
 #### Introduction
 
-The Northwind Database is for a business entity that deals with edible goods. Download the DB and restore it to your Postgres software. 
+The Northwind Database is for a business entity that deals with edible goods. Download the DB and restore it to your Postgres software.
 
 You will find the DB and the schema diagram in the assessment folder on the drive. Using the Northwind Database and schema diagram, 
 
-you have been given the responsibility to retrieve the following outputs from the database:
+You have been given the responsibility to retrieve the following outputs from the database:
 
 
 ### Business Task
 
-1. The company wants to reward its **Sales Representative staff only.** For this to happen, we would need to know the staff name, the
+1. The company wants to reward its **Sales Representative staff only**. For this to happen, we would need to know the staff name, the
   
 total amount of money the staff has handled during a customer transaction and the department this staff belongs to. (Remember, we want
  
@@ -33,7 +33,7 @@ value.** This rank table should be partitioned by country.
 
 4. There have been some concerns with some of our suppliers. The management would like to know the MVP (most valuable player)
 
-suppliers and the ones that can be replaced.  **Return a table that shows the name of the company, the contact’s name, and the average 
+suppliers and the ones that can be replaced. **Return a table that shows the name of the company, the contact’s name, and the average 
 
 quantity these companies have done for the company.**
 
