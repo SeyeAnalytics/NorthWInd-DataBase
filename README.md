@@ -1,8 +1,8 @@
-# NorthWind-DataBase
+## NorthWind-DataBase
 
 ![](edible-food---teachoo.jpg)
 
-#### Introduction
+### Introduction
 
 The Northwind Database is for a business entity that deals with edible goods. Download the DB and restore it to your Postgres software.
 
