@@ -2,7 +2,7 @@
 
 ![](edible-food---teachoo.jpg)
 
-## Introduction
+### Introduction
 
 The Northwind Database is for a business entity that deals with edible goods. 
 
@@ -15,9 +15,9 @@ Using the Northwind Database and schema diagram,
 you have been given the responsibility to retrieve the following outputs from the DB.
 
 
-## Business Task
+### Business Task
 
-### 1.	The company wants to reward its Sales Representatives staff only.
+The company wants to reward its Sales Representatives staff only.
 
 For this to happen, we would need to know the staff name,
 
@@ -64,9 +64,9 @@ the contact’s name and the average quantity these companies have done for the 
 
 
 
-## Skills Demonstrated
+### Skills Demonstrated
 
-### The following PowerBi features were incorporated
+The following PowerBi features were incorporated
 
 -Subquery
 
@@ -75,7 +75,7 @@ the contact’s name and the average quantity these companies have done for the 
 -CTE
 
 
-## Business Solution:
+### Business Solution:
 
 Question 1 Code            |      Question 1 result
 :-------------------------:|:-----------------------:
