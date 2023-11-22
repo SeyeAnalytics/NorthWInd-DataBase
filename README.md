@@ -4,11 +4,11 @@
 
 ### Introduction
 
-The Northwind Database is for a business entity that deals with edible goods. Download the DB and restore it to your Postgres software.
+The Northwind Database is for a business entity that deals with edible goods.Download the DB and restore it to your Postgres software.
 
-You will find the DB and the schema diagram in the assessment folder on the drive. Using the Northwind Database and schema diagram, 
+You will find the DB and the schema diagram in the assessment folder on the drive.Using the Northwind Database and schema diagram, You
 
-You have been given the responsibility to retrieve the following outputs from the database:
+have been given the responsibility to retrieve the following outputs from the database:
 
 
 ### Business Task
