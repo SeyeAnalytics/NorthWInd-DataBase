@@ -35,7 +35,7 @@ the total amount of transaction, and the title of these employees.
 
 Put this output in a view. 
 
-2.	The board of directors are interested in seeing the volume of transactions
+2.  The board of directors is interested in seeing the volume of transactions
 
 this business has made. Your mission: In the operation year, give a breakdown
 
@@ -45,15 +45,15 @@ of the total number of orders by year and by month.
 
 The directors are planning to expand their customer base in some countries.
 
-Generate a ranked table from the customers table that displays the customer id,
+Generate a ranked table from the customer's table that displays the customer ID,
 
 company name, city, country, total quantity, and the ranked value.
 
 This rank table should be partitioned by country.
 
-4.	There have been some concerns with some of our suppliers.
+4. There have been some concerns with some of our suppliers.
 
-The management would like to know the MVP(most valuable players)
+The management would like to know the MVP (most valuable player)
 
 suppliers and the ones that can be replaced.
 
@@ -66,7 +66,7 @@ the contact’s name and the average quantity these companies have done for the 
 
 #### Skills Demonstrated
 
-The following PowerBi features were incorporated
+The following PowerBI features were incorporated
 
 -Subquery
 
