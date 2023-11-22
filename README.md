@@ -4,31 +4,16 @@
 
 ### Introduction
 
-The Northwind Database is for a business entity that deals with edible goods.
-
-Download the DB and restore it to your Postgres software.
-
-You will find the DB and the schema diagram in the assessment folder on the drive.
-
-Using the Northwind Database and schema diagram, You
-
+The Northwind Database is for a business entity that deals with edible goods. Download the DB and restore it to your Postgres software.
+You will find the DB and the schema diagram in the assessment folder on the drive. Using the Northwind Database and schema diagram, You
 have been given the responsibility to retrieve the following outputs from the database:
 
 
 ### Business Task
 
-1. The company wants to reward its **Sales Representative staff only**.
-
-   For this to happen, we would need to know the staff name, the total
-
-   amount of money the staff has handled during a customer transaction and
-
-   the department this staff belongs to. (Remember, we want
- 
-   just the sales rep staff). Please help the Finance department generate a 
-
-   summary table that shows the full name (last + first name  combined),
-
+1. The company wants to reward its **Sales Representative staff only**. For this to happen, we would need to know the staff name, the total
+   amount of money the staff has handled during a customer transaction and the department this staff belongs to. (Remember, we want
+   just the sales rep staff). Please help the Finance department generate a summary table that shows the full name (last + first name  combined),
    the total amount of transactions, and the title of these employees. **Put this output in view.**
 
 
