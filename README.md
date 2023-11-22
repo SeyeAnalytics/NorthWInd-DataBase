@@ -17,7 +17,7 @@ you have been given the responsibility to retrieve the following outputs from th
 
 ## Business Task
 
-1.	The company wants to reward its Sales Representatives staff only.
+###1.	The company wants to reward its Sales Representatives staff only.
 
 For this to happen, we would need to know the staff name,
 
@@ -66,7 +66,7 @@ the contact’s name and the average quantity these companies have done for the 
 
 ## Skills Demonstrated
 
-The following PowerBi features were incorporated
+###The following PowerBi features were incorporated
 
 -Subquery
 
