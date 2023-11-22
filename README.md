@@ -13,15 +13,21 @@ You have been given the responsibility to retrieve the following outputs from th
 
 ### Business Task
 
-1. The company wants to reward its **Sales Representative staff only**. For this to happen, we would need to know the staff name, the
-  
-total amount of money the staff has handled during a customer transaction and the department this staff belongs to. (Remember, we want
- 
-just the sales Rep staff). Please help the Finance department generate a summary table that shows the full name (last + first name 
- 
-combined), the total amount of transactions, and the title of these employees. **Put this output in view.** 
+1. The company wants to reward its **Sales Representative staff only**.
 
-2. The board of directors is interested in seeing the volume of transactions this business has made. Your mission: In the operation
+   For this to happen, we would need to know the staff name, the total
+
+   amount of money the staff has handled during a customer transaction and
+
+   the department this staff belongs to. (Remember, we want
+ 
+   just the sales rep staff). Please help the Finance department generate a 
+
+   summary table that shows the full name (last + first name  combined),
+
+   the total amount of transactions, and the title of these employees. **Put this output in view.** 
+
+3. The board of directors is interested in seeing the volume of transactions this business has made. Your mission: In the operation
 
 year, **give a breakdown of the total number of orders by year and by month.**
 
