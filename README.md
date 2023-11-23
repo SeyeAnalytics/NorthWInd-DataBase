@@ -32,7 +32,7 @@ have been given the responsibility to retrieve the following outputs from the da
 
 ### Skills Demonstrated
 
-The following PowerBI features were incorporated
+The following SQL features were incorporated
 
 -Subquery
 
