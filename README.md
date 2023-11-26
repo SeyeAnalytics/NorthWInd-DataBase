@@ -65,4 +65,4 @@ Question 4 Code            |      Question 4 result
 
 
 
-[Here](North DB sql code.sql/CONTRIBUTING.md)
+[Here](North DB sql code.sql../CONTRIBUTING.md)
