@@ -65,6 +65,4 @@ Question 4 Code            |      Question 4 result
 
 
 
-
-git commit -m "North DB sql code.sql"
-
+[Here](North DB sql code.sql/CONTRIBUTING.md)
